@@ -60,7 +60,7 @@ pip install -r requirements.txt
 
 
 ## Endpoints
-![API Image](src/api_figure.PNG)
+![API Image](src/api_figure.png)
 
 - POST /api/predict
   - Description: Accepts insurance feature values and returns a predicted insurance charges in $.
